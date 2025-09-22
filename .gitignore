@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+venv
+.env
+__pycache__
+.dist
+build
+dist
+.coverage
+pytest_cache
+.cache
+Thumbs.db
