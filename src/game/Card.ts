@@ -1,16 +1,16 @@
-enum Suit {
+export enum Suit {
     HEART = "HEART", // red, human
     DIAMOND = "DIAMOND", // blue, gnome
     SHOVEL = "SHOVEL", // gray, dwarf
     ARROWHEAD = "ARROWHEAD", // green, elf
     CLUB = "CLUB", // brown, orc
 
-    // maybe
-    SKULL = "SKULL", // black, undead
-    STAR = "STAR", // yellow, celestial
-    CIRCLE = "CIRCLE", // purple, demon
-    TRIANGLE = "TRIANGLE", // orange, beast
-    SQUARE = "SQUARE", // pink, fairy
+    // // maybe
+    // SKULL = "SKULL", // black, undead
+    // STAR = "STAR", // yellow, celestial
+    // CIRCLE = "CIRCLE", // purple, demon
+    // TRIANGLE = "TRIANGLE", // orange, beast
+    // SQUARE = "SQUARE", // pink, fairy
 }
 
 enum Bonus {
